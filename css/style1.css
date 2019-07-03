@@ -1,0 +1,46 @@
+nav{
+	background-color: lightgrey;
+}
+nav a{
+	text-decoration: none;
+	color: black;
+	padding: 50px;
+
+}
+header{
+	float: left;
+	margin-left: 50px;
+}
+div{
+	align-content: center;
+}
+div.row1{
+	margin-left: 50px;
+}
+div.row2{
+	text-align: center;
+}
+div.row3{
+	margin-left: 90px;
+}
+div table,th,td{
+	border: 1px solid black;
+}
+div td{
+	text-align: justify;
+}
+div.row4{
+	text-align: center;
+}
+div.row5{
+	margin-left: 155px;
+}
+div.row6{
+	text-align: center;
+}
+div.image{
+	width: 80%;
+}
+input[type=text]{
+	width: 100%;
+}
